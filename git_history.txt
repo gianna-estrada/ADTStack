@@ -1,0 +1,23 @@
+commit b41b9ac254d6d68eacdaf84e5e311172df32bae9
+Author: Gianna <B00173954@mytudublin.ie>
+Date:   Fri Oct 9 17:44:22 2026 +0100
+
+    Completed Step 3 - created menu driven program with user input
+
+commit 5fc980c8fcb5b9aa51f35e0a6aae8cbfaf9ace71
+Author: Gianna <B00173954@mytudublin.ie>
+Date:   Fri Oct 9 17:09:20 2026 +0100
+
+    Completed Step 2 - created boolean isBalanced(String s) method
+
+commit f01022fd0c8872d087ab5c6d7668abdefb0cb38a
+Author: Gianna <B00173954@mytudublin.ie>
+Date:   Fri Oct 9 16:27:27 2026 +0100
+
+    Completed Step 1 - created displayStack method and called it
+
+commit 05e7ba23edf4f5400bd36fc160ecd0b6b24c2472
+Author: Gianna <B00173954@mytudublin.ie>
+Date:   Fri Oct 9 15:56:42 2026 +0100
+
+    Test commit
