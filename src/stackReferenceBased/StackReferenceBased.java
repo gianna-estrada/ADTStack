@@ -50,5 +50,6 @@ public class StackReferenceBased {
 			curr = curr.getNext();
 		}
 		System.out.println("--- Stack Bottom ---");
+		System.out.println();
 	}
 }
